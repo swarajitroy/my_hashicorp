@@ -7,5 +7,9 @@
 ## Vault
 ---
 
+- 1. Compare authentication methods
+- Second item
+- Third item
+- 
 ## Consul
 ---
